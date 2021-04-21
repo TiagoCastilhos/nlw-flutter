@@ -38,7 +38,7 @@ class AppBarWidget extends PreferredSize {
                           borderRadius: BorderRadius.circular(10),
                           image: DecorationImage(
                             image: NetworkImage(
-                                "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/a411fc38106877.5756241ce657f.jpg"),
+                                "https://styles.redditmedia.com/t5_2b7d7n/styles/profileIcon_ljxy8mzxup361.jpg?width=256&height=256&crop=256:256,smart&s=6de4c1faa82a65b582938e9c7264b88ba45542db"),
                           ),
                         ),
                       ),
